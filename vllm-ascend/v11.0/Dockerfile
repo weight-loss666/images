@@ -1,0 +1,1 @@
+FROM m.daocloud.io/quay.io/ascend/vllm-ascend@sha256:a005df42e36f863541f7247131e826c31a902d6335deb061ef3773f38cac0797
