@@ -1,0 +1,1 @@
+FROM quay.io/ascend/vllm-ascend@sha256:84a1aec94b17f0287f27743f280f81c56134664b106f56a5da8fcaf7c6f2e4d0
